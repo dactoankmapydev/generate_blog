@@ -25,7 +25,7 @@ TAG_FEED_ATOM = None
 SOCIAL = (('Github', 'https://github.com/dactoankmapydev'),
                    ('Facebook', 'https://www.facebook.com/toan.nguyen.31392410'),
                    ('Linkedin', 'https://www.linkedin.com/in/dac-toan-nguyen-a94b2a146/'),)
-DEFAULT_DATE = 'fs'
+#DEFAULT_DATE = 'fs'
 
 DEFAULT_PAGINATION = 10
 THEME = 'pelican-octopress-theme'

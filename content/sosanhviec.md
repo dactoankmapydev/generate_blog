@@ -1,6 +1,7 @@
 title: Ứng dụng web SO SÁNH VIỆC
 slug: sosanhviec
 category: Data analysis
+Date: 2019-01-24
 
 [Demo](https://sosanhviec.herokuapp.com/) là một ứng dụng web phân tích việc làm trong lĩnh vực CNTT.
 

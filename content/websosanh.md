@@ -1,7 +1,7 @@
 title: Thu thập dữ liệu với Scrapy, Splash, Lua - Nội dung được tạo bởi Javascript 
 slug: scrapy
 category: Crawl
-
+Date: 2019-01-30
 
 - Thật khó để tìm thấy một trang web hiện đại không sử dụng công nghệ javascript. Khi bạn muốn lấy nội dung được tạo bằng javascript từ một trang web, bạn sẽ nhận ra rằng Scrapy đơn thuần không thể chạy mã javascript trong khi thu thập dữ liệu. Trong bài viết này, mình sẽ  hướng dẫn các bạn cách thu thập dữ liệu từ trang [websosanh](https://websosanh.vn/), websosanh là công cụ tìm kiếm, so sánh giúp người tiêu dùng mua được sản phẩm tốt với giá rẻ nhất tại nơi bán gần nhất.
 
